@@ -1,0 +1,31 @@
+main {
+  padding: 5% 10%;
+  font-size: 18px;
+}
+hr{
+  width: 100%;
+  box-sizing: border-box;
+  border-left: 0px;
+  border-right: 0px;
+}
+.app {
+  border: 2px solid lightgray;
+  border-radius: 10px;
+}
+.title {
+  padding: 2%;
+}
+.polera {
+  height: 150px;
+  width: 180px;
+}
+.selection-section {
+  padding: 0;
+}
+.shipping-section {
+  background-color: lightgray;
+  padding: 2%;
+}
+.btn {
+  width: 100%;
+}
